@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/My App/My App.iml" filepath="$PROJECT_DIR$/My App/My App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/My HttpUrl/My HttpUrl.iml" filepath="$PROJECT_DIR$/My HttpUrl/My HttpUrl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/My JsonTest/My JsonTest.iml" filepath="$PROJECT_DIR$/My JsonTest/My JsonTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/My PremissionsTest/My PremissionsTest.iml" filepath="$PROJECT_DIR$/My PremissionsTest/My PremissionsTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/My openFileOutputAndOpenFileInput/My openFileOutputAndOpenFileInput.iml" filepath="$PROJECT_DIR$/My openFileOutputAndOpenFileInput/My openFileOutputAndOpenFileInput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyTest.iml" filepath="$PROJECT_DIR$/MyTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecyclerViewTest/RecyclerViewTest.iml" filepath="$PROJECT_DIR$/RecyclerViewTest/RecyclerViewTest.iml" />
+    </modules>
+  </component>
+</project>

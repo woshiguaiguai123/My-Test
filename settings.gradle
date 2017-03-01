@@ -1,0 +1,1 @@
+include ':RecyclerViewTest', ':My App', ':My PremissionsTest', ':My JsonTest', ':My HttpUrl', ':My openFileOutputAndOpenFileInput'
